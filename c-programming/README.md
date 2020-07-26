@@ -16,6 +16,6 @@ This was based on an assigned project in Problem Solving and Program Design in C
 ### Lap Counter
 This is used to convert the number of laps swam in the pool that I swim to miles.
 ## Resources
-Griffiths, David, and Dawn Griffiths. Head First C. O'Reilly, 2012.
-Hanly, Jeri R., and Elliot B. Koffman. Problem Solving and Program Design in C. Pearson/Addison Wesley, 2004.
+Griffiths, David, and Dawn Griffiths. Head First C. O'Reilly, 2012.  
+Hanly, Jeri R., and Elliot B. Koffman. Problem Solving and Program Design in C. Pearson/Addison Wesley, 2004.  
 

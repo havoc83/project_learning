@@ -13,7 +13,7 @@ int main(int argc, char **argv) {
 	time_t cur_time = time(NULL);
 	const char *strlwr(const char *str);
 	int result;
-	const char *filename = "./stock_files/%s.csv";
+	const char *filename = "../stock_files/%s.csv";
 	char formated_filename[10];
 	char url[] = "https://query1.finance.yahoo.com/v7/finance/download/%s?period1=%ld&period2=%ld&interval=1d&events=history";
 	char formated_url[140];
